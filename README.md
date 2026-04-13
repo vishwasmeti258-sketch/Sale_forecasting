@@ -4,7 +4,7 @@
 To make sales forecasting possible Usage of time series model has done and to visualize the predication.
 By this Business make decision based on previous trend of sales.
 
-# 📄 objectives
+# 📄 Objectives
 • To observe relationships between   different metrics.
 
 • To observe Sales on different periods of time and regional wise.
@@ -13,4 +13,5 @@ By this Business make decision based on previous trend of sales.
 
 # 🔍 Dataset Description
 The dataset contains the following key columns :-
+Region,country,order_date,ship_date,total_revenue,total_Profit,Unit_price,Sales_channel,Order_priority
 
