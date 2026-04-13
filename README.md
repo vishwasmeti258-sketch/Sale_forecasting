@@ -40,3 +40,13 @@ The dataset contains the following key columns :-
 • Donut for sales channel by profit
 
 •  List button to country wise
+
+# 🔑 Key Insights
+
+• In somes Region sales for different
+category product is less.
+
+• offline channel seems to more profitable than online.
+
+• top 3 Products sold in all the Regions.
+
